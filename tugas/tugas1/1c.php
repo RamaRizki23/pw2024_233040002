@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PW2024 | 233040002</title>
+    <title>PW2024 | 233040020</title>
 
     <style>
         .kotak2 {
@@ -21,6 +22,7 @@
             border: 1px solid black;
             background-color: salmon;
         }
+    </style>
 </head>
 
 <body>
@@ -30,11 +32,12 @@
             <div class="box box-2">2</div>
             <div class="box box-2">2</div>
         </div>
-            <div class="kotak2">
-                <div class="box box-3">3</div>
-                <div class="box box-3">3</div>
-                <div class="box box-3">3</div>
-             </div>
+        <div class="kotak2">
+            <div class="box box-3">3</div>
+            <div class="box box-3">3</div>
+            <div class="box box-3">3</div>
+        </div>
     </div>
 </body>
+
 </html>
