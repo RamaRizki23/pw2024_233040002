@@ -34,5 +34,13 @@ $makanan = ["🍜","🍗","🍕","🍔","🌭"];
         <li><?= $b; ?></li>
         <?php endforeach; ?>
     </ol>
+    <hr>
+
+    <h3>Daftar Makanan</h3>
+    <ol>
+        <?php foreach ($makanan as $m) : ?>
+        <li><?= $m; ?></li>
+        <?php endforeach; ?>
+    </ol>
 </body>
 </html>
